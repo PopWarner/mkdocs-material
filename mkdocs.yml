@@ -22,7 +22,7 @@
 site_name: Material for MkDocs in PopWarner
 site_description: A Material Design theme for MkDocs
 site_author: Martin Donath
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url: https://PopWarner.github.io/mkdocs-material/
 
 # Repository
 repo_name: PopWarner/mkdocs-material
@@ -99,7 +99,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: squidfunk
+      user: PopWarner
       repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
