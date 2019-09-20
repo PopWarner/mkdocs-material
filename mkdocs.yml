@@ -19,14 +19,14 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
+site_name: Material for MkDocs in PopWarner
 site_description: A Material Design theme for MkDocs
 site_author: Martin Donath
 site_url: https://squidfunk.github.io/mkdocs-material/
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: PopWarner/mkdocs-material
+repo_url: https://github.com/PopWarner/mkdocs-material
 edit_uri: ""
 
 # Copyright
