@@ -15,7 +15,7 @@
   [dependabot-image]: https://img.shields.io/badge/dependabot-enabled-06f.svg
   [dependabot-link]: https://dependabot.com
 
-# Material for MkDocs
+# Material for MkDocs in PopWarner
 
 A Material Design theme for [MkDocs][1].
 
